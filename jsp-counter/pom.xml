@@ -23,7 +23,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- other plugin versions -->
-        <version.war.plugin>2.1.1</version.war.plugin>
+        <version.war.plugin>3.3.2</version.war.plugin>
     </properties>
 
     <build>

@@ -1,0 +1,5 @@
+#Fri Nov 11 11:54:56 UTC 2022
+configuration*?=51226E0465102E7B8766C6170D239E7AAF60833A
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/projects/devfile-eap74/quickstarts/helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloService.java=1668166143506
+/projects/devfile-eap74/quickstarts/helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloWorldServlet.java=1668166143506
