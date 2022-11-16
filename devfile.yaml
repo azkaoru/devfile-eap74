@@ -8,7 +8,9 @@ components:
     type: chePlugin
   - mountSources: true
     endpoints:
-      - name: root
+      - attributes:
+          path: /ee7-web/
+        name: root
         port: 8080
     memoryLimit: 1Gi
     type: dockerimage
